@@ -1,0 +1,798 @@
+1,Diarrhea,loperamide,1,Low,Child,10mg
+2,Diarrhea,Colesevelam,2,Low,Child,20mg
+3,Diarrhea,Lomotil,3,Low,Child,30mg
+4,Diarrhea,Imodium,4,Low,Adult,40mg
+5,Diarrhea,Dapsone,5,Low,Child,50mg
+6,Diarrhea,Escitalopram,6,Low,Child,60mg
+7,Diarrhea,Clonazepam,7,Low,Teen,70mg
+8,Diarrhea,Oxytrol,8,Low,Child,80mg
+9,Diarrhea,Pregabalin,9,Low,Child,90mg
+10,Diarrhea,Bupropion ,1,Medium,Child,100mg
+11,Diarrhea,Levonorgestrel,2,Medium,Child,110mg
+12,Diarrhea,Florastor,3,Medium,Child,120mg
+13,Diarrhea,Pepto-Bismol,4,Medium,Adult,130mg
+14,Diarrhea,Nortriptyline,5,Medium,Child,140mg
+15,Diarrhea,Keppra,6,Medium,Child,150mg
+16,Diarrhea,Ropinirole,7,Medium,Teen,160mg
+17,Diarrhea,Levaquin,8,Medium,Child,170mg
+18,Diarrhea,Desvenlafaxine,9,Medium,Child,180mg
+19,Diarrhea,Amitriptyline,1,High,Child,190mg
+20,Diarrhea,Metronidazole,2,High,Child,200mg
+21,Diarrhea,Risperidone,3,High,Child,210mg
+22,Diarrhea,Simponi Aria,4,High,Adult,220mg
+23,Diarrhea,Elavil,5,High,Child,230mg
+24,Diarrhea,Prozac,6,High,Child,240mg
+25,Diarrhea,Lamisil,7,High,Teen,250mg
+26,Diarrhea,Zoloft,8,High,Child,260mg
+27,Diarrhea,Fexofenadine,9,High,Child,270mg
+28,Hyperhidrosis,Vortioxetine,1,Low,Teen,10mg
+29,Hyperhidrosis,Minastrin 24 Fe,2,Low,Teen,20mg
+30,Hyperhidrosis,Adzenys XR-ODT,3,Low,Teen,30mg
+31,Hyperhidrosis,Clarithromycin,1,Medium,Child,40mg
+32,Hyperhidrosis,Escitalopram,2,Medium,Child,50mg
+33,Hyperhidrosis,Pentosan polysulfate sodium,3,Medium,Child,60mg
+34,Hyperhidrosis,Lamictal,4,Medium,Adult,70mg
+35,Hyperhidrosis,Ramipril,5,Medium,Adult,80mg
+36,Hyperhidrosis,Drospirenone ,6,Medium,Adult,90mg
+37,Hyperhidrosis,Escitalopram,7,Medium,Teen,100mg
+38,Hyperhidrosis,Clonazepam,8,Medium,Teen,110mg
+39,Hyperhidrosis,Tegaserod,9,Medium,Teen,120mg
+40,Hyperhidrosis,Ashlyna,4,Low,Adult,130mg
+41,Hyperhidrosis,Lisdexamfetamine,5,Low,Adult,140mg
+42,Hyperhidrosis,Tioconazole,6,Low,Adult,150mg
+43,Hyperhidrosis,Levofloxacin,9,High,Child,160mg
+44,Hyperhidrosis,Tadalafil,1,High,Child,170mg
+45,Hyperhidrosis,Ethinyl estradiol ,2,High,Child,180mg
+46,Hyperhidrosis,Linzess,3,High,Adult,190mg
+47,Hyperhidrosis,Otezla,4,High,Child,200mg
+48,Hyperhidrosis,Victoza,5,High,Child,210mg
+49,Hyperhidrosis,Methadone,6,High,Teen,220mg
+50,Hyperhidrosis,Metronidazole,7,High,Teen,230mg
+51,Hyperhidrosis,Atomoxetine,8,High,Teen,240mg
+52,Hyperhidrosis,Copper,7,Low,Child,250mg
+53,Hyperhidrosis,Chlorhexidine,8,Low,Child,260mg
+54,Hyperhidrosis,Suboxone,9,Low,Child,270mg
+55,Smallpox,Tramadol,1,Low,Child,10mg
+56,Smallpox,Mirena,2,Low,Child,20mg
+57,Smallpox,Vyvanse,3,Low,Child,30mg
+58,Smallpox,Tri-Luma,4,Low,Adult,40mg
+59,Smallpox,Methadone,5,Low,Adult,50mg
+60,Smallpox,Azithromycin,6,Low,Adult,60mg
+61,Smallpox,Venlafaxine,7,Low,Teen,70mg
+62,Smallpox,Amitriptyline,8,Low,Teen,80mg
+63,Smallpox,Levonorgestrel,9,Low,Teen,90mg
+64,Smallpox,Ethinyl estradiol / levonorgestrel,1,Medium,Child,100mg
+65,Smallpox,Campral,2,Medium,Child,110mg
+66,Smallpox,Bactrim DS,3,Medium,Child,120mg
+67,Smallpox,Linzess,4,Medium,Adult,130mg
+68,Smallpox,Buprenorphine,5,Medium,Adult,140mg
+69,Smallpox,Senna Plus,6,Medium,Adult,150mg
+70,Smallpox,Flomax,7,Medium,Teen,160mg
+71,Smallpox,Ortho Evra,8,Medium,Teen,170mg
+72,Smallpox,Ethinyl estradiol / levonorgestrel,9,Medium,Teen,180mg
+73,Smallpox,Venlafaxine,1,High,Child,190mg
+74,Smallpox,Adderall,2,High,Teen,200mg
+75,Smallpox,Terbinafine,3,High,Teen,210mg
+76,Smallpox,Gabapentin,4,High,Adult,220mg
+77,Smallpox,Secobarbital,5,High,Adult,230mg
+78,Smallpox,Aluminum chloride hexahydrate,6,High,Adult,240mg
+79,Smallpox,Asenapine,7,High,Teen,250mg
+80,Smallpox,Penicillin v potassium,8,High,Teen,260mg
+81,Smallpox,Lutera,9,High,Teen,270mg
+82,Smokingcessation,Kyleena,1,Low,Child,10mg
+83,Smokingcessation,Ethinyl estradiol ,2,Low,Child,20mg
+84,Smokingcessation,Toradol,3,Low,Child,30mg
+85,Smokingcessation,Clarithromycin,4,Low,Teen,40mg
+86,Smokingcessation,Aluminum chloride hexahydrate,5,Low,Teen,50mg
+87,Smokingcessation,Gabapentin,6,Low,Teen,60mg
+88,Smokingcessation,Plan B One-Step,7,Low,Adult,70mg
+89,Smokingcessation,Levsin SL,8,Low,Adult,80mg
+90,Smokingcessation,Benzoyl peroxide ,9,Low,Adult,90mg
+91,Smokingcessation,Human papillomavirus vaccine,1,Medium,Child,100mg
+92,Smokingcessation,Lortab,2,Medium,Child,110mg
+93,Smokingcessation,Zoloft,3,Medium,Child,120mg
+94,Smokingcessation,Dexmethylphenidate,4,Medium,Teen,130mg
+95,Smokingcessation,Catapres,5,Medium,Teen,140mg
+96,Smokingcessation,NuvaRing,6,Medium,Teen,150mg
+97,Smokingcessation,Sertraline,7,Medium,Adult,160mg
+98,Smokingcessation,Cyclobenzaprine,8,Medium,Adult,170mg
+99,Smokingcessation,Harvoni,9,Medium,Adult,180mg
+100,Smokingcessation,Lansoprazole,1,High,Child,190mg
+101,Smokingcessation,Medroxyprogesterone,2,High,Child,200mg
+102,Smokingcessation,Varenicline,3,High,Child,210mg
+103,Smokingcessation,Sulfamethoxazole,4,High,Teen,220mg
+104,Smokingcessation,Ethinyl estradiol ,5,High,Teen,230mg
+105,Smokingcessation,Carbidopa ,6,High,Teen,240mg
+106,Smokingcessation,Hydrocodone,7,High,Adult,250mg
+107,Smokingcessation,salicylate,8,High,Adult,260mg
+108,Smokingcessation,Morphine,9,High,Adult,270mg
+109,Tuberculosis,Gabapentin enacarbil,1,Low,Child,10mg
+110,Tuberculosis,Bronkaid,2,Low,Child,20mg
+111,Tuberculosis,Quetiapine,3,Low,Child,30mg
+112,Tuberculosis,Niacin,4,Low,Teen,40mg
+113,Tuberculosis,Paliperidone,5,Low,Teen,50mg
+114,Tuberculosis,Sronyx,6,Low,Teen,60mg
+115,Tuberculosis,Depo-Provera,7,Low,Adult,70mg
+116,Tuberculosis,Mirena,8,Low,Adult,80mg
+117,Tuberculosis,Fioricet,9,Low,Adult,90mg
+118,Tuberculosis,Singulair,1,Medium,Child,100mg
+119,Tuberculosis,Tiotropium,2,Medium,Child,110mg
+120,Tuberculosis,Ethinyl estradiol ,3,Medium,Child,120mg
+121,Tuberculosis,Xulane,4,Medium,Teen,130mg
+122,Tuberculosis,Lorcaserin,5,Medium,Teen,140mg
+123,Tuberculosis,Minastrin 24 Fe,6,Medium,Teen,150mg
+124,Tuberculosis,Teriparatide,7,Medium,Adult,160mg
+125,Tuberculosis,Sertraline,8,Medium,Adult,170mg
+126,Tuberculosis,Diclofenac,9,Medium,Adult,180mg
+127,Tuberculosis,Plan B One-Step,1,High,Child,190mg
+128,Tuberculosis,Glatiramer,2,High,Child,200mg
+129,Tuberculosis,Ammonium lactate,3,High,Child,210mg
+130,Tuberculosis,Atenolol,4,High,Teen,220mg
+131,Tuberculosis,Testosterone,5,High,Teen,230mg
+132,Tuberculosis,Ethinyl estradiol ,6,High,Teen,240mg
+133,Tuberculosis,Cobicistat ,7,High,Adult,250mg
+134,Tuberculosis,Ethinyl estradiol ,8,High,Adult,260mg
+135,Tuberculosis,Medroxyprogesterone,9,High,Adult,270mg
+136,Throatpain,Duloxetine,1,Low,Adult,10mg
+137,Throatpain,Tramadol,2,Low,Adult,20mg
+138,Throatpain,Cepacol,3,Low,Child,30mg
+139,Throatpain,Phenol,4,Low,Child,40mg
+140,Throatpain,Chloraseptic sore throat spray,5,Low,Child,50mg
+141,Throatpain,Benzocaine,6,Low,Adult,60mg
+142,Throatpain,Cepacol sore throat,7,Low,Teen,70mg
+143,Throatpain,Chloraseptic sore throat lorgenzes,8,Low,Teen,80mg
+144,Throatpain,Menthol,9,Low,Teen,90mg
+145,Throatpain,Dyclonine,1,Low,Child,100mg
+146,Throatpain,Laryngesic,2,Low,Child,110mg
+147,Throatpain,Trocaine,3,Low,Child,120mg
+148,Throatpain,dycyclonine,4,Low,Adult,130mg
+149,Throatpain,cepacol fizzlers,5,Low,Adult,140mg
+150,Throatpain,Cheracol sore throat,6,Low,Adult,150mg
+151,Throatpain,Vicks cough drops,7,Low,Teen,160mg
+152,Throatpain,Phenylephrine,8,Low,Teen,170mg
+153,Throatpain,Halls Mentho Lyptus drops,9,Low,Teen,180mg
+154,Throatpain,Benzocaine,1,Low,Child,190mg
+155,Throatpain,Halls Mentho Lyptus drops,2,Low,Child,200mg
+156,Throatpain,Dyclonine,3,Low,Child,210mg
+157,Throatpain,Ibuprofen,1,High,Adult,220mg
+158,Throatpain,Trocaine,2,High,Adult,230mg
+159,Throatpain,Benzocaine,3,High,Adult,240mg
+160,Throatpain,Ludens honey lemon throat drops,4,High,Teen,250mg
+161,Throatpain,Cepacol,5,High,Teen,260mg
+162,Throatpain,N Ice,6,High,Teen,270mg
+163,Highbloodpressure,Bumetanide,1,Low,Child,10mg
+164,Highbloodpressure,Azilsartan,2,Low,Child,20mg
+165,Highbloodpressure,Candesartan,3,Low,Child,30mg
+166,Highbloodpressure,Eprosartan mesylate,4,Low,Adult,40mg
+167,Highbloodpressure,Irbesarten,5,Low,Adult,50mg
+168,Highbloodpressure,Chlorthalidone,6,Low,Adult,60mg
+169,Highbloodpressure,Losartin Potassium,7,Low,Teen,70mg
+170,Highbloodpressure,Olmesartan,8,Low,Teen,80mg
+171,Highbloodpressure,Chlorothiazide,9,Low,Teen,90mg
+172,Highbloodpressure,Telmisartan,1,Low,Child,100mg
+173,Highbloodpressure,Valsartan,2,Low,Child,110mg
+174,Highbloodpressure,Ethacrynate,3,Low,Child,120mg
+175,Highbloodpressure,Indapamide,4,Low,Adult,130mg
+176,Highbloodpressure,Captopril,5,Low,Adult,140mg
+177,Highbloodpressure,Furosemide,6,Low,Adult,150mg
+178,Highbloodpressure,Torsemide,7,Low,Teen,160mg
+179,Highbloodpressure,Perindopril,8,Low,Teen,170mg
+180,Highbloodpressure,Indapamide,9,Low,Teen,180mg
+181,Highbloodpressure,Fosinopril,1,Low,Child,190mg
+182,Highbloodpressure,Moexipril,2,Low,Child,200mg
+183,Highbloodpressure,Methyclothiazide,3,Low,Child,210mg
+184,Highbloodpressure,Trandolapril,1,High,Adult,220mg
+185,Highbloodpressure,Ramipril,2,High,Adult,230mg
+186,Highbloodpressure,Metolazone,3,High,Adult,240mg
+187,Highbloodpressure,hydrochlorothiazide,4,High,Teen,250mg
+188,Highbloodpressure,amiloride,5,High,Teen,260mg
+188,Highbloodpressure,Prednisone,6,High,Teen,270mg
+188,Highbloodpressure,Ciprofloxacin,7,High,Child,280mg
+188,Highbloodpressure,Carbidopa ,8,High,Child,290mg
+189,Highbloodpressure,Suprep Bowel Prep Kit,9,High,Child,300mg
+190,Fever,Paracetamol,1,low,Teen,10mg
+191,Fever,Bayer Aspirin,2,low,Teen,20mg
+192,Fever,ibuprofen,3,low,Teen,30mg
+193,Fever,Ecotrin,4,low,Adult,40mg
+194,Fever,Anaprox,5,low,Adult,50mg
+195,Fever,naproxen,6,low,Adult,60mg
+196,Fever,Aspergum,7,low,Child,70mg
+197,Fever,Anaprox DS,8,low,Child,80mg
+198,Fever,Acetaminophen,9,low,Child,90mg
+199,Fever,Acephen,1,Medium,Adult,100mg
+200,Fever,Naprosyn,2,Medium,Adult,110mg
+201,Fever,tylenol,3,Medium,Adult,120mg
+202,Fever,Mapap,4,Medium,Teen,130mg
+203,Fever,Paracetamol,5,Medium,Teen,140mg
+204,Fever,indomethacin,6,Medium,Teen,150mg
+205,Fever,Easprin,7,Medium,Child,160mg
+206,Fever,Children's Mortin,8,Medium,Child,170mg
+207,Fever,Advil liqui gels,9,Medium,Child,180mg
+208,Fever,Anaprox,1,High,Child,190mg
+209,Fever,Ecotrin,2,High,Child,200mg
+210,Fever,ibuprofen,3,High,Child,210mg
+211,Fever,Aleve,4,High,Teen,220mg
+212,Fever,Motrin,5,High,Teen,230mg
+213,Fever,Advil,6,High,Teen,240mg
+214,Fever,ibuprofen,7,High,Adult,250mg
+215,Fever,Acetamophen,8,High,Adult,260mg
+216,Fever,Mapop suspension,9,High,Adult,270mg
+217,Ulcer,Aciphex,1,Low,Child,10mg
+218,Ulcer,Protonix,2,Low,Child,20mg
+219,Ulcer,Omeprazole,3,Low,Child,30mg
+220,Ulcer,Prilosec,4,Low,Adult,40mg
+221,Ulcer,Ranitidine,5,Low,Adult,50mg
+222,Ulcer,Pantoprazole,6,Low,Adult,60mg
+223,Ulcer,Sucralfate,7,Low,Teen,70mg
+224,Ulcer,Cytotec,8,Low,Teen,80mg
+225,Ulcer,Carafate,9,Low,Teen,90mg
+226,Ulcer,Pepcid,1,Medium,Child,100mg
+227,Ulcer,Zantac 150,2,Medium,Child,110mg
+228,Ulcer,Aciphex,3,Medium,Child,120mg
+229,Ulcer,Prevacid,4,Medium,Adult,130mg
+230,Ulcer,Famotidine,5,Medium,Adult,140mg
+231,Ulcer,Protonix,6,Medium,Adult,150mg
+232,Ulcer,Zegerid,7,Medium,Teen,160mg
+233,Ulcer,Zantac,8,Medium,Teen,170mg
+234,Ulcer,Ranitidine,9,Medium,Teen,180mg
+235,Ulcer,Rabeprazole,1,High,Child,190mg
+236,Ulcer,Pepcid AC,2,High,Child,200mg
+237,Ulcer,Prilosec,3,High,Child,210mg
+238,Ulcer,Protonix IV,4,High,Adult,220mg
+239,Ulcer,Lansoprazole,5,High,Adult,230mg
+240,Ulcer,Sucralfate,6,High,Adult,240mg
+241,Ulcer,Omeprazole,7,High,Teen,250mg
+242,Ulcer,Amphojel,8,High,Teen,260mg
+243,Ulcer,Zantac,9,High,Teen,270mg
+244,Cough,Vicodin ES,1,Low,Child,10mg
+245,Cough,Tessalon,2,Low,Child,20mg
+246,Cough,Guaifenesin,3,Low,Child,30mg
+247,Cough,Gabapentin,4,Low,Adult,40mg
+248,Cough,Amitriptyline,5,Low,Adult,50mg
+249,Cough,Dextromethorphan,6,Low,Adult,60mg
+250,Cough,Hydromorphone,7,Low,Teen,70mg
+251,Cough,Acetaminophen,8,Low,Teen,80mg
+252,Cough,Benzonatate,9,Low,Teen,90mg
+253,Cough,Mucinex,1,High,Child,100mg
+254,Cough,Promethazine DM,2,High,Child,110mg
+255,Cough,Tessalon Perles,3,High,Child,120mg
+256,Cough,Hycodan,4,High,Teen,130mg
+257,Cough,Delsym,5,High,Teen,140mg
+258,Cough,Codeine,6,High,Teen,150mg
+259,Cough,Hydromet,7,High,Adult,160mg
+260,Cough,Dilaudid,8,High,Adult,170mg
+261,Cough,Dextromethorphan,9,High,Adult,180mg
+262,Cough,Guaifenesin,1,Medium,Child,190mg
+263,Cough,Dextromethorphan,2,Medium,Child,200mg
+264,Cough,Benzonatate,3,Medium,Child,210mg
+265,Cough,Hycodan,4,Medium,Adult,220mg
+266,Cough,Promethazine,5,Medium,Adult,230mg
+267,Cough,Lortab,6,Medium,Adult,240mg
+268,Cough,Diphenhydramine,7,Medium,Teen,250mg
+269,Cough,Dextromethorphan,8,Medium,Teen,260mg
+270,Cough,Codeine,9,Medium,Teen,270mg
+271,Headache,Naproxen,1,Low,Teen,10mg
+272,Headache,Motrin,2,Low,Teen,20mg
+273,Headache,Acetaminophen,3,Low,Teen,30mg
+274,Headache,Trazodone,1,Medium,Child,40mg
+275,Headache,Naprelan,2,Medium,Child,50mg
+276,Headache,Acetaminophen,3,Medium,Child,60mg
+277,Headache,Advil liqui gels,4,Medium,Adult,70mg
+278,Headache,Anaprox,5,Medium,Adult,80mg
+279,Headache,Fioricet,6,Medium,Adult,90mg
+280,Headache,Percogesic,7,Medium,Teen,100mg
+281,Headache,Mortin IB,8,Medium,Teen,110mg
+282,Headache,Naprelan,9,Medium,Teen,120mg
+283,Headache,Aspirin,1,High,Child,130mg
+284,Headache,Butalbital,2,High,Child,140mg
+285,Headache,Acetaminophen,3,High,Child,150mg
+286,Headache,Anaprox,4,High,Adult,160mg
+287,Headache,Advil liqui gels,5,High,Adult,170mg
+288,Headache,Fioricet,6,High,Adult,180mg
+289,Headache,Aleve,7,High,Teen,190mg
+290,Headache,IBU,8,High,Teen,200mg
+291,Headache,Acetaminophen,9,High,Teen,210mg
+292,Headache,Actiprofen,4,Low,Child,220mg
+293,Headache,Haltran,5,Low,Child,230mg
+294,Headache,Acetaminophen,6,Low,Child,240mg
+295,Headache,Dologesic,7,Low,Adult,250mg
+296,Headache,Exerdin tension headache,8,Low,Adult,260mg
+297,Headache,Indomethacin,9,Low,Adult,270mg
+298,Migraine,Amitriptyline,1,Low,Child,10mg
+299,Migraine,Acetaminophen,2,Low,Child,20mg
+300,Migraine,Motrin,3,Low,Child,30mg
+301,Migraine,Inderal,4,Low,Teen,40mg
+302,Migraine,Topiromat,5,Low,Teen,50mg
+303,Migraine,Levitiracetam,6,Low,Teen,60mg
+304,Migraine,Topamax,7,Low,Adult,70mg
+305,Migraine,Sumatriptan nasal spray,8,Low,Adult,80mg
+306,Migraine,Levitiracetam,9,Low,Adult,90mg
+307,Migraine,Riboflavin,1,Medium,Child,100mg
+308,Migraine,Amitriptylin,2,Medium,Child,110mg
+309,Migraine,Flunarizine,3,Medium,Child,120mg
+310,Migraine,Topiramate,4,Medium,Adult,130mg
+311,Migraine,Chinnarizine,5,Medium,Adult,140mg
+312,Migraine,Ketorolac,6,Medium,Adult,150mg
+313,Migraine,Topiramate,1,High,Child,160mg
+314,Migraine,Inderal,2,High,Child,170mg
+315,Migraine,Riboflavin,3,High,Child,180mg
+316,Migraine,Topamax,4,High,Teen,190mg
+317,Migraine,Ketorolac,5,High,Teen,200mg
+318,Migraine,Chinnarizine,6,High,Teen,210mg
+319,Migraine,Rizatriptan,7,High,Adult,220mg
+320,Migraine,Flunarizine,8,High,Adult,230mg
+321,Migraine,Peritole,9,High,Adult,240mg
+322,Migraine,Eletriptan,7,Medium,Teen,250mg
+323,Migraine,Peritole,8,Medium,Teen,260mg
+324,Migraine,Propranolol,9,Medium,Teen,270mg
+325,Insomnia,Ambien,1,Low,Child,10mg
+326,Insomnia,Trazodone,2,Low,Child,20mg
+327,Insomnia,,3,Low,Child,30mg
+328,Insomnia,Trazodone,1,High,Child,40mg
+329,Insomnia,Restoril,2,High,Child,50mg
+330,Insomnia,Diphenhydramine,3,High,Child,60mg
+331,Insomnia,Ambien,4,Low,Adult,70mg
+332,Insomnia,Restoril,5,Low,Adult,80mg
+333,Insomnia,Diphenhydramine,6,Low,Adult,90mg
+334,Insomnia,Diphenhydramine,7,Low,Teen,100mg
+335,Insomnia,Ambien,8,Low,Teen,110mg
+336,Insomnia,Restoril,9,Low,Teen,120mg
+337,Insomnia,Ambien,1,Medium,Child,130mg
+338,Insomnia,Trazodone,2,Medium,Child,140mg
+339,Insomnia,Restoril,3,Medium,Child,150mg
+340,Insomnia,Suvorexant,4,Medium,Adult,160mg
+341,Insomnia,Trazodone,5,Medium,Adult,170mg
+342,Insomnia,Restoril,6,Medium,Adult,180mg
+343,Insomnia,Ambien,7,Medium,Teen,190mg
+344,Insomnia,Trazodone,8,Medium,Teen,200mg
+345,Insomnia,Restoril,9,Medium,Teen,210mg
+346,Insomnia,Belsomra,1,High,Adult,220mg
+347,Insomnia,Trazodone,2,High,Adult,230mg
+348,Insomnia,Restoril,3,High,Adult,240mg
+349,Insomnia,Belsomra,4,High,Teen,250mg
+350,Insomnia,Trazodone,5,High,Teen,260mg
+351,Insomnia,Suvorexant,6,High,Teen,270mg
+352,Weightloss,Contrave,1,Low,Teen,10mg
+353,Weightloss,Garcinia Cambogia Extract,2,Low,Teen,20mg
+354,Weightloss,Hydroxycut,3,Low,Teen,30mg
+355,Weightloss,Belviq,4,Low,Adult,40mg
+356,Weightloss,Caffeine,5,Low,Adult,50mg
+357,Weightloss,Orlistat,6,Low,Adult,60mg
+358,Weightloss,Phentermine,7,Low,Child,70mg
+359,Weightloss,Alli,8,Low,Child,80mg
+360,Weightloss,Raspberry Ketones,9,Low,Child,90mg
+361,Weightloss,Belviq,1,Medium,Teen,100mg
+362,Weightloss,Green Coffee Bean Extract,2,Medium,Teen,110mg
+363,Weightloss,Glucomannan,3,Medium,Teen,120mg
+364,Weightloss,Adipex-P,4,Medium,Adult,130mg
+365,Weightloss,Meratrim,5,Medium,Adult,140mg
+366,Weightloss,Green Tea Extract,6,Medium,Adult,150mg
+367,Weightloss,Adipex-P,1,High,Teen,160mg
+368,Weightloss,Conjugated Linoleic Acid(CLA),2,High,Teen,170mg
+369,Weightloss,Forskolin,3,High,Teen,180mg
+370,Weightloss,Liraglutide,4,High,Adult,190mg
+371,Weightloss,Bitter Orange,5,High,Adult,200mg
+372,Weightloss,Didrex,6,High,Adult,210mg
+373,Weightloss,Qsymia,7,High,Child,220mg
+374,Weightloss,Synephrine,8,High,Child,230mg
+375,Weightloss,Adipex,9,High,Child,240mg
+376,Weightloss,Phentermine,7,Medium,Child,250mg
+377,Weightloss,Qsymia,8,Medium,Child,260mg
+378,Weightloss,Meratrim,9,Medium,Child,270mg
+379,Asthma,Montelukast,1,Low,Child,10mg
+380,Asthma,Albuterol,2,Low,Child,20mg
+381,Asthma,levalbuterol,3,Low,Child,30mg
+382,Asthma,Prednisone,4,Low,Adult,40mg
+383,Asthma,ProAir HFA,5,Low,Adult,50mg
+384,Asthma,Metaproterenol,6,Low,Adult,60mg
+385,Asthma,Advair HFA,7,Low,Teen,70mg
+386,Asthma,Terbutaline,8,Low,Teen,80mg
+387,Asthma,Proventil HFA,9,Low,Teen,90mg
+388,Asthma,Dulera,1,Medium,Child,100mg
+389,Asthma,Ventolin HFA,2,Medium,Child,110mg
+390,Asthma,Xopenex HFA,3,Medium,Child,120mg
+391,Asthma,Montelukast,4,Medium,Adult,130mg
+392,Asthma,Singulair,5,Medium,Adult,140mg
+393,Asthma,Montelukast,6,Medium,Adult,150mg
+394,Asthma,Singulair,7,Medium,Teen,160mg
+395,Asthma,Prednisone,8,Medium,Teen,170mg
+396,Asthma,Dulera,9,Medium,Teen,180mg
+397,Asthma,Singulair,1,High,Child,190mg
+398,Asthma,Atrovent,2,High,Child,200mg
+399,Asthma,Ipratropium,3,High,Child,210mg
+400,Asthma,Singulair,4,High,Adult,220mg
+401,Asthma,Breo Ellipta,5,High,Adult,230mg
+402,Asthma,Alvesco,6,High,Adult,240mg
+403,Asthma,Albuterol,7,High,Teen,250mg
+404,Asthma,Kenalog-40,8,High,Teen,260mg
+405,Asthma,Rayos,9,High,Teen,270mg
+406,Keratosis,Fluorouracil,1,Low,Adult,10mg
+407,Keratosis,Efudex,2,Low,Adult,20mg
+408,Keratosis,Aldara,3,Low,Adult,30mg
+409,Keratosis,Fluorouracil,4,Low,Teen,40mg
+410,Keratosis,Solaraze,5,Low,Teen,50mg
+411,Keratosis,Picato,6,Low,Teen,60mg
+412,Keratosis,Zyclara,7,Low,Child,70mg
+413,Keratosis,Imiquimod,8,Low,Child,80mg
+414,Keratosis,Diclofenac,9,Low,Child,90mg
+415,Keratosis,Fluorouracil,1,Medium,Child,100mg
+416,Keratosis,Santyl,2,Medium,Child,110mg
+417,Keratosis,Levulan Kerastick,3,Medium,Child,120mg
+418,Keratosis,Zyclara,4,Medium,Teen,130mg
+419,Keratosis,Collagenase Santyl,5,Medium,Teen,140mg
+420,Keratosis,Ingenol,6,Medium,Teen,150mg
+421,Keratosis,Carac,7,Medium,Adult,160mg
+422,Keratosis,Klofensaid II,8,Medium,Adult,170mg
+423,Keratosis,Xrylix,9,Medium,Adult,180mg
+424,Keratosis,Fluoroplex,1,High,Child,190mg
+425,Keratosis,Collagenase,2,High,Child,200mg
+426,Keratosis,Tolak,3,High,Child,210mg
+427,Keratosis,Fluorouracil,4,High,Teen,220mg
+428,Keratosis,Aminolevulinic acid,5,High,Teen,230mg
+429,Keratosis,Ingenol,6,High,Teen,240mg
+430,Keratosis,Fluorouracil,7,High,Adult,250mg
+431,Keratosis,Santyl,8,High,Adult,260mg
+432,Keratosis,Methyl Aminolevulinate,9,High,Adult,270mg
+433,Narcolepsy,Nuvigil,1,Low,Child,10mg
+434,Narcolepsy,Adderall,2,Low,Child,20mg
+435,Narcolepsy,Provigil,3,Low,Child,30mg
+436,Narcolepsy,Sodium oxybate,4,Low,Teen,40mg
+437,Narcolepsy,Modafinil,5,Low,Teen,50mg
+438,Narcolepsy,Ritalin,6,Low,Teen,60mg
+439,Narcolepsy,Methylphenidate,7,Low,Adult,70mg
+440,Narcolepsy,Xyrem,8,Low,Adult,80mg
+441,Narcolepsy,Adderall XR,9,Low,Adult,90mg
+442,Narcolepsy,Ritalin,1,Medium,Child,100mg
+443,Narcolepsy,Methylphenidate,2,Medium,Child,110mg
+444,Narcolepsy,Dexedrine,3,Medium,Child,120mg
+445,Narcolepsy,Armodafinil,4,Medium,Teen,130mg
+446,Narcolepsy,Concerta,5,Medium,Teen,140mg
+447,Narcolepsy,Dextroamphetamine,6,Medium,Teen,150mg
+448,Narcolepsy,Adderall XR,7,Medium,Adult,160mg
+449,Narcolepsy,Methylin,8,Medium,Adult,170mg
+450,Narcolepsy,Sodium oxybate,9,Medium,Adult,180mg
+451,Narcolepsy,Armodafinil,1,High,Child,190mg
+452,Narcolepsy,Desvenlafaxine,2,High,Child,200mg
+453,Narcolepsy,Methylin ER,3,High,,210mg
+454,Narcolepsy,Provigil,4,High,Teen,220mg
+455,Narcolepsy,Ritalin SR,5,High,,230mg
+456,Narcolepsy,Amphetamine,6,High,,240mg
+457,Narcolepsy,Dextrostat,7,High,Adult,250mg
+458,Narcolepsy,Armodafinil,8,High,,260mg
+459,Narcolepsy,Zenzedi,9,High,,270mg
+460,Diabetes,Afrezza,1,Low,Adult,10mg
+461,Diabetes, Chlorpropamide,2,Low,Adult,20mg
+462,Diabetes,Glibenclamide,3,Low,Adult,30mg
+463,Diabetes,Insulin inhalation,4,Low,Teen,40mg
+464,Diabetes,Gliclazide,5,Low,Teen,50mg
+465,Diabetes,Tolbutamide,6,Low,Teen,60mg
+466,Diabetes,DDAVP Rhinal Tube,7,Low,Child,70mg
+467,Diabetes,Glimepiride,8,Low,Child,80mg
+468,Diabetes,Metformin,9,Low,Child,90mg
+469,Diabetes,Basaglar,1,Medium,Child,100mg
+470,Diabetes,Acarbose,2,Medium,Child,110mg
+471,Diabetes,Repaglinide ,3,Medium,Child,120mg
+472,Diabetes,Insulin glargine,4,Medium,Adult,130mg
+473,Diabetes,Rosiglitazone,5,Medium,Adult,140mg
+474,Diabetes,Bromocriptine,6,Medium,Adult,150mg
+475,Diabetes,Tresiba,7,Medium,Teen,160mg
+476,Diabetes,Alogliptin-pioglitazone,8,Medium,Teen,170mg
+477,Diabetes,Canagliflozin-metformin,9,Medium,Teen,180mg
+478,Diabetes,Humulin N,1,High,Child,190mg
+479,Diabetes,Dapagliflozin,2,High,Child,200mg
+480,Diabetes,Dapagliflozin-metformin (,3,High,Child,210mg
+481,Diabetes,Lantus,4,High,Adult,220mg
+482,Diabetes,Dulaglutide,5,High,Adult,230mg
+483,Diabetes,Empagliflozin,6,High,Adult,240mg
+484,Diabetes,Octreotide,7,High,Teen,250mg
+485,Diabetes,Empagliflozin-linagliptin,8,High,Teen,260mg
+486,Diabetes,Empagliflozin-metformin,9,High,Teen,270mg
+487,Bipolardisorder,Klonopin,1,Low,Child,10mg
+488,Bipolardisorder,olanzapine,2,Low,Child,20mg
+489,Bipolardisorder,venlafaxine,3,Low,Child,30mg
+490,Bipolardisorder,Aripiprazole,4,Low,Teen,40mg
+491,Bipolardisorder,risperidone,5,Low,Teen,50mg
+492,Bipolardisorder,sertraline,6,Low,Teen,60mg
+493,Bipolardisorder,Lurasidone,7,Low,Adult,70mg
+494,Bipolardisorder,Depakote ER,8,Low,Adult,80mg
+495,Bipolardisorder,oxcarbazepine,9,Low,Adult,90mg
+496,Bipolardisorder,Lamotrigine,1,Medium,Child,100mg
+497,Bipolardisorder,   Zyprexa,2,Medium,Child,110mg
+498,Bipolardisorder,Saphris,3,Medium,Child,120mg
+499,Bipolardisorder,Gabapentin,4,Medium,Teen,130mg
+500,Bipolardisorder,bupropion,5,Medium,Teen,140mg
+501,Bipolardisorder,Geodon,6,Medium,Teen,150mg
+502,Bipolardisorder,Aripiprazole,7,Medium,Adult,160mg
+503,Bipolardisorder,Seroquel XR,8,Medium,Adult,170mg
+504,Bipolardisorder,divalproex sodium,9,Medium,Adult,180mg
+505,Bipolardisorder,Lurasidone,1,High,Child,190mg
+506,Bipolardisorder,citalopram,2,High,Child,200mg
+507,Bipolardisorder,carbamazepine,3,High,Child,210mg
+508,Bipolardisorder,Quetiapine,4,High,Teen,220mg
+509,Bipolardisorder,ziprasidone,5,High,Teen,230mg
+510,Bipolardisorder,escitalopram,6,High,Teen,240mg
+511,Bipolardisorder,Quetiapine,7,High,Adult,250mg
+512,Bipolardisorder,clonidine,8,High,Adult,260mg
+513,Bipolardisorder,duloxetine,9,High,Adult,270mg
+514,Nausea/vomiting,Promethazine,1,Low,Child,10mg
+515,Nausea/vomiting,Meni-D,2,Low,Child,20mg
+516,Nausea/vomiting,Haldol,3,Low,Child,30mg
+517,Nausea/vomiting,Doxylamine,4,Low,Teen,40mg
+518,Nausea/vomiting,Thorazine,5,Low,Teen,50mg
+519,Nausea/vomiting,Tigan,6,Low,Teen,60mg
+520,Nausea/vomiting,Ondansetron,1,Medium,Child,70mg
+521,Nausea/vomiting,	Dramamine II,2,Medium,Child,80mg
+522,Nausea/vomiting,Antinaus 50,3,Medium,Child,90mg
+523,Nausea/vomiting,Prochlorperazine,4,Medium,Teen,100mg
+524,Nausea/vomiting,Meclicot,5,Medium,Teen,110mg
+525,Nausea/vomiting,Dramamine Less Drowsy,6,Medium,Teen,120mg
+526,Nausea/vomiting,Ondansetron,7,Medium,Adult,130mg
+527,Nausea/vomiting,Transderm-Scop,8,Medium,Adult,140mg
+528,Nausea/vomiting,Phenadoz,9,Medium,Adult,150mg
+529,Nausea/vomiting,Ondansetron,7,High,Child,160mg
+530,Nausea/vomiting,Allermax,8,High,Child,170mg
+531,Nausea/vomiting,Travel-Ease,9,High,Child,180mg
+532,Nausea/vomiting,Zofran,1,High,Teen,190mg
+533,Nausea/vomiting,Benadryl Children's Allergy,2,High,Teen,200mg
+534,Nausea/vomiting,Banophen,3,High,Teen,210mg
+535,Nausea/vomiting,Phenergan,4,High,Adult,220mg
+536,Nausea/vomiting,Complete Allergy Relief,5,High,Adult,230mg
+537,Nausea/vomiting,chlorpromazine,6,High,Adult,240mg
+539,Nausea/vomiting,Diphedryl,7,Low,Adult,250mg
+539,Nausea/vomiting,orlistat,8,Low,Adult,260mg
+540,Nausea/vomiting,Dicopanol,9,Low,Adult,270mg
+541,Obesity,Phentermine,1,Low,Child,10mg
+542,Obesity,	bupropion / naltrexone,2,Low,Adult,20mg
+543,Obesity,Topiragen,3,Low,Adult,30mg
+544,Obesity,Phentermine,4,Low,Adult,40mg
+545,Obesity,	liraglutide,5,Low,Adult,50mg
+546,Obesity,chorionic gonadotropin,6,Low,Adult,60mg
+547,Obesity,Orlistat,7,Low,Teen,70mg
+548,Obesity,	Topamax Sprinkle,8,Low,Teen,80mg
+549,Obesity,methylphenidate,9,Low,Teen,90mg
+550,Obesity,Contrave,1,Medium,Child,100mg
+551,Obesity,benzphetamine,2,Medium,Child,110mg
+552,Obesity,Atti-Plex P,3,Medium,Child,120mg
+553,Obesity,Qsymia,4,Medium,Adult,130mg
+554,Obesity,Evekeo,5,Medium,Adult,140mg
+555,Obesity,cimetidine,6,Medium,Adult,150mg
+556,Obesity,Bupropion,7,Medium,Teen,160mg
+557,Obesity,Tenuate Dospan,8,Medium,Teen,170mg
+558,Obesity,Belviq XR,9,Medium,Teen,180mg
+559,Obesity,Lorcaserin,1,High,Child,190mg
+560,Obesity,desvenlafaxine,2,High,Child,200mg
+561,Obesity,amphetamine,3,High,Child,210mg
+562,Obesity,Qsymia,4,High,Adult,220mg
+563,Obesity,Obezine,5,High,Adult,230mg
+564,Obesity,Equaline Acid Reducer,6,High,Adult,240mg
+565,Obesity,Liraglutide,7,High,Tee,250mg
+566,Obesity,Prelu-2,8,High,Tee,260mg
+567,Obesity,Phendiet,9,High,Tee,270mg
+568,Depression,Mirtazapine,1,Low,Child,10mg
+569,Depression,paroxetine,2,Low,Child,20mg
+570,Depression,Viibryd,3,Low,Child,30mg
+571,Depression,Escitalopram,4,Low,Teen,40mg
+572,Depression,Wellbutrin SR,5,Low,Teen,50mg
+573,Depression,Remeron,6,Low,Teen,60mg
+574,Depression,Zoloft,7,Low,Adult,70mg
+575,Depression,mirtazapine,8,Low,Adult,80mg
+576,Depression,Paxil,9,Low,Adult,90mg
+577,Depression,Effexor XR,1,Medium,Child,100mg
+578,Depression,trazodone,2,Medium,Child,110mg
+579,Depression,Effexor,3,Medium,Child,120mg
+580,Depression,Venlafaxine,4,Medium,Teen,130mg
+581,Depression,	duloxetine,5,Medium,Teen,140mg
+582,Depression,Pristiq,6,Medium,Teen,150mg
+583,Depression,escitalopram,7,Medium,Adult,160mg
+584,Depression,venlafaxine,8,Medium,Teen,170mg
+585,Depression,Abilify,9,Medium,Teen,180mg
+586,Depression,Xanax,8,High,Adult,190mg
+587,Depression,Bupropion,9,High,Adult,200mg
+588,Depression,amitriptyline,2,High,Adult,210mg
+589,Depression,Seroquel XR	,3,High,Teen,220mg
+590,Depression,alprazolam,10,High,Adult,230mg
+591,Depression,Deplin,2,High,Adult,240mg
+592,Depression,lamotrigine,5,High,Child,250mg
+593,Depression,Zoloft,8,High,Child,260mg
+594,Depression,quetiapine,9,High,Child,270mg
+595,Panicdisorder,Clonazepam,1,Low,Adult,10mg
+596,Panicdisorder,Benzoyl peroxide / clindamycin,2,Low,Adult,20mg
+597,Panicdisorder,Etonogestrel,3,Low,Adult,30mg
+598,Panicdisorder,Miconazole,1,Medium,Child,40mg
+599,Panicdisorder,Etonogestrel,2,Medium,Child,50mg
+600,Panicdisorder,Ortho Tri-Cyclen Lo,3,Medium,Teen,60mg
+601,Panicdisorder,Tofacitinib,4,Medium,Teen,70mg
+602,Panicdisorder,Cryselle,5,Medium,Adult,80mg
+603,Panicdisorder,Ziprasidone,6,Medium,Adult,90mg
+604,Panicdisorder,Bactrim,1,High,Child,100mg
+605,Panicdisorder,Sertraline,2,High,Child,110mg
+606,Panicdisorder,Aluminum chloride hexahydrate,3,High,Teen,120mg
+607,Panicdisorder,ParaGard,4,High,Teen,130mg
+608,Panicdisorder,Pregabalin,5,High,Adult,140mg
+609,Panicdisorder,Aviane,6,High,Adult,150mg
+610,Panicdisorder,Inderal,1,Low,Child,160mg
+611,Panicdisorder,Tioconazole,2,Low,Child,170mg
+612,Panicdisorder,Orthovisc,3,Low,Teen,180mg
+613,Panicdisorder,Marezine,4,Low,Teen,190mg
+614,Panicdisorder,Levonorgestrel,5,Low,Child,200mg
+615,Panicdisorder,Minoxidil,6,Low,Child,210mg
+616,Panicdisorder,Humira,7,Low,Teen,220mg
+617,Panicdisorder,Acetaminophen,8,Low,Teen,230mg
+618,Panicdisorder,Lo Loestrin Fe,9,Low,Adult,240mg
+619,Panicdisorder,Copper,1,Low,Adult,250mg
+620,Panicdisorder,Bupropion,1,Medium,Child,260mg
+621,Panicdisorder,Bacitracin / neomycin / polymyxin b,2,Medium,Child,270mg
+622,Panicdisorder,Yaz,3,Medium,Teen,280mg
+623,Panicdisorder,Copper,4,Medium,Teen,290mg
+624,Panicdisorder,Jolessa,5,Medium,Adult,300mg
+625,Panicdisorder,Guaifenesin / pseudoephedrine,6,Medium,Adult,310mg
+626,Panicdisorder,Oxycodone,7,Medium,Adult,320mg
+627,Panicdisorder,Bupropion,1,High,Child,330mg
+628,Panicdisorder,Brisdelle,2,High,Child,340mg
+629,Panicdisorder,Loratadine,3,High,Teen,350mg
+630,Panicdisorder,Loratadine,4,High,Teen,360mg
+631,Panicdisorder,Nasonex,5,High,Adult,370mg
+632,Panicdisorder,Loratadine,6,High,Teen,380mg
+633,Panicdisorder,Miconazole,7,High,Teen,390mg
+634,Musclespasm,Baclofen,1,Low,Child,10mg
+635,Musclespasm,Metaxalone,2,Low,Child,20mg
+636,Musclespasm,Methocarbamol,3,Low,Child,30mg
+637,Musclespasm,Oxazepam,4,Low,Adult,40mg
+638,Musclespasm,Carisoprodo,5,Low,Adult,50mg
+639,Musclespasm,Cyclobenzaprine,6,Low,Adult,60mg
+640,Musclespasm,Dantrolene,7,Low,Teen,70mg
+641,Musclespasm,Tizanidine,8,Low,Teen,80mg
+642,Musclespasm,Orphenadrine,9,Low,Teen,90mg
+643,Musclespasm,Baclofen,1,Medium,Child,100mg
+644,Musclespasm,Carisoprodol,2,Medium,Child,110mg
+645,Musclespasm,Orphenadrine,3,Medium,Child,120mg
+646,Musclespasm,Metaxalone,4,Medium,Adult,130mg
+647,Musclespasm,Quinine,5,Medium,Adult,140mg
+648,Musclespasm,Tizanidine,6,Medium,Adult,150mg
+649,Musclespasm,Loratadine,7,Medium,Teen,160mg
+650,Musclespasm,Bupropion,8,Medium,Teen,170mg
+651,Musclespasm,Nasonex,9,Medium,Teen,180mg
+652,Musclespasm,Loratadine,1,High,Child,190mg
+653,Musclespasm,Miconazole,2,High,Child,200mg
+654,Musclespasm,Valium,3,High,Child,210mg
+655,Musclespasm,Benzodiazepines,4,High,Adult,220mg
+656,Musclespasm,Chlorzoxazone,5,High,Adult,230mg
+657,Musclespasm,Metaxalone,6,High,Adult,240mg
+658,Musclespasm,Tizanidine,7,High,Teen,250mg
+659,Musclespasm,Soma,8,High,Teen,260mg
+660,Musclespasm,Diazepam,9,High,Teen,270mg
+661,Influenza,Augmentin,1,Low,Child,10mg
+662,Influenza,Qsymia,2,Low,Child,20mg
+663,Influenza,Provera,3,Low,Child,30mg
+664,Influenza,Nexplanon,4,Low,Teen,40mg
+665,Influenza,Varenicline,5,Low,Teen,50mg
+666,Influenza,Adderall,6,Low,Teen,60mg
+667,Influenza,Acamprosate,7,Low,Adult,70mg
+668,Influenza,Suboxone,8,Low,Adult,80mg
+669,Influenza,Correctol,9,Low,Adult,90mg
+670,Influenza,Celestone,1,Medium,Child,100mg
+671,Influenza,Myrbetriq,2,Medium,Child,110mg
+672,Influenza,Sulfamethoxazole ,3,Medium,Child,120mg
+673,Influenza,Oxycodone,4,Medium,Teen,130mg
+674,Influenza,Campral,5,Medium,Teen,140mg
+675,Influenza,Vyvanse,6,Medium,Teen,150mg
+676,Influenza,Methadone,7,Medium,Adult,160mg
+677,Influenza,Quetiapine,8,Medium,Adult,170mg
+678,Influenza,Tizanidine,9,Medium,Adult,180mg
+679,Influenza,Sulfamethoxazole ,1,High,Child,190mg
+680,Influenza,Metoclopramide,2,High,Child,200mg
+681,Influenza,Junel Fe 1.5 / 30,3,High,Child,210mg
+682,Influenza,Clindamycin,4,High,Teen,220mg
+683,Influenza,Mirena,5,High,Teen,230mg
+684,Influenza,Loestrin 24 Fe,6,High,Teen,240mg
+685,Influenza,Pristiq,7,High,Adult,250mg
+686,Influenza,Benazepril,8,High,Adult,260mg
+687,Influenza,Epiduo,9,High,Adult,270mg
+688,Acne,Ibrance,1,Low,Child,10mg
+689,Acne,Alprazolam,2,Low,Child,20mg
+690,Acne,Pantoprazole,3,Low,Child,30mg
+691,Acne,Reglan,4,Low,Teen,40mg
+692,Acne,Citalopram,5,Low,Teen,50mg
+693,Acne,Topiramate,6,Low,Teen,60mg
+694,Acne,Levonorgestrel,7,Low,Adult,70mg
+695,Acne,Ethinyl estradiol ,8,Low,Adult,80mg
+696,Acne,Valproic acid,9,Low,Adult,90mg
+697,Acne,Nortriptyline,1,Medium,Child,100mg
+698,Acne,ella,2,Medium,Child,110mg
+699,Acne,Patanase,3,Medium,Child,120mg
+700,Acne,Dextromethorphan,4,Medium,Teen,130mg
+701,Acne,Abilify,5,Medium,Teen,140mg
+702,Acne,Pregabalin,6,Medium,Teen,150mg
+703,Acne,Venlafaxine,7,Medium,Adult,160mg
+704,Acne,Amitiza,8,Medium,Adult,170mg
+705,Acne,Creon,9,Medium,Adult,180mg
+706,Acne,Ethinyl estradiol ,1,High,Child,190mg
+707,Acne,Suprep Bowel Prep Kit,2,High,Child,200mg
+708,Acne,Bupropion ,3,High,Child,210mg
+709,Acne,Ambien,4,High,Teen,220mg
+710,Acne,Clobetasol,5,High,Teen,230mg
+711,Acne,Liraglutide,6,High,Teen,240mg
+712,Acne,Nexplanon,7,High,Adult,250mg
+713,Acne,Etonogestrel,8,High,Adult,260mg
+714,Acne,Dextromethorphan ,9,High,Adult,270mg
+715,Cold,Qsymia,1,Low,Child,10mg
+716,Cold,Bactrim,2,Low,Child,20mg
+717,Cold,Bactrim,3,Low,Child,30mg
+718,Cold,Fluoxetine,4,Low,Teen,40mg
+719,Cold,Ciprofloxacin,5,Low,Teen,50mg
+720,Cold,Indocin SR,6,Low,Teen,60mg
+721,Cold,Xolair,7,Low,Adult,70mg
+722,Cold,Sertraline,8,Low,Adult,80mg
+723,Cold,Corticotropin,9,Low,Adult,90mg
+724,Cold,Veltin,1,Medium,Child,100mg
+725,Cold,Zolpidem,2,Medium,Child,110mg
+726,Cold,Acetaminophen ,3,Medium,Child,120mg
+727,Cold,Desvenlafaxine,4,Medium,Teen,130mg
+728,Cold,Abilify,5,Medium,Teen,140mg
+729,Cold,Contrave,6,Medium,Teen,150mg
+730,Cold,Cymbalta,7,Medium,Adult,160mg
+731,Cold,Ethinyl estradiol ,8,Medium,Adult,170mg
+732,Cold,Aczone,9,Medium,Adult,180mg
+733,Cold,Bupropion,1,High,Child,190mg
+734,Cold,Aluminum chloride hexahydrate,2,High,Child,200mg
+735,Cold,Mexiletine,3,High,Child,210mg
+736,Cold,Dabigatran,4,High,Teen,220mg
+737,Cold,Contrave,5,High,Teen,230mg
+738,Cold,Valacyclovir,6,High,Teen,240mg
+739,Cold,Silenor,7,High,Adult,250mg
+740,Cold,Medroxyprogesterone,8,High,Adult,260mg
+741,Cold,Microgestin 1 / 20,9,High,Adult,270mg
+742,Allergicrhinitis,TriNessa,1,High,Adult,10mg
+743,Allergicrhinitis,Etonogestrel,2,High,Adult,20mg
+744,Allergicrhinitis,Sertraline,3,High,Adult,30mg
+745,Allergicrhinitis,Ertaczo,1,Low,Child,40mg
+746,Allergicrhinitis,Minipress,2,Low,Child,50mg
+747,Allergicrhinitis,Risperdal,3,Low,Child,60mg
+748,Allergicrhinitis,Tramadol,4,Low,Teen,70mg
+749,Allergicrhinitis,Xanax,5,Low,Teen,80mg
+750,Allergicrhinitis,Alesse,6,Low,Teen,90mg
+751,Allergicrhinitis,Duloxetine,7,Low,Adult,100mg
+752,Allergicrhinitis,Zoledronic acid,8,Low,Adult,110mg
+753,Allergicrhinitis,Multivitamin with minerals,9,Low,Adult,120mg
+754,Allergicrhinitis,Doxycycline,1,Medium,Child,130mg
+755,Allergicrhinitis,Vortioxetine,2,Medium,Child,140mg
+756,Allergicrhinitis,Linzess,3,Medium,Child,150mg
+757,Allergicrhinitis,Mirena,4,Medium,Teen,160mg
+758,Allergicrhinitis,Miconazole,5,Medium,Teen,170mg
+759,Allergicrhinitis,Levonorgestrel,6,Medium,Teen,180mg
+760,Allergicrhinitis,Seasonale,7,Medium,Adult,190mg
+761,Allergicrhinitis,Bupropion,8,Medium,Adult,200mg
+762,Allergicrhinitis,Ethinyl estradiol,9,Medium,Adult,210mg
+763,Allergicrhinitis,Abilify,1,High,Child,220mg
+764,Allergicrhinitis,Ethinyl estradiol ,2,High,Child,230mg
+765,Allergicrhinitis,Cymbalta,3,High,Child,240mg
+766,Allergicrhinitis,Quetiapine,4,High,Teen,250mg
+767,Allergicrhinitis,Oxytrol,5,High,Teen,260mg
+768,Allergicrhinitis,Zaleplon,6,High,Teen,270mg
+769,Pneumonia,vancomycin,1,Low,Child,10mg
+770,Pneumonia,cefuroxime,2,Low,Child,20mg
+771,Pneumonia,	Biaxin,3,Low,Child,30mg
+772,Pneumonia,	Flagyl,1,Medium,Child,40mg
+773,Pneumonia,Flagyl,2,Medium,Child,50mg
+774,Pneumonia,Levofloxacin,3,Medium,Child,60mg
+775,Pneumonia,Cipro,1,High,Child,70mg
+776,Pneumonia,erythromycin,2,High,Child,80mg
+777,Pneumonia,Azithromycin,3,High,Child,90mg
+778,Pneumonia,Amoxicillin,4,Low,Teen,100mg
+779,Pneumonia,Avelox,5,Low,Teen,110mg
+780,Pneumonia,	Vibra-Tabs,6,Low,Teen,120mg
+781,Pneumonia,Cipro I.V.,4,Medium,Teen,130mg
+782,Pneumonia,Ciprofloxacin,5,Medium,Teen,140mg
+783,Pneumonia,Clindamycin,6,Medium,Teen,150mg
+784,Pneumonia,Cefotaxime,4,High,Teen,160mg
+785,Pneumonia,	Flagyl IV,5,High,Teen,170mg
+786,Pneumonia,amikacin,6,High,Teen,180mg
+787,Pneumonia,Ceftin,4,Low,Adult,190mg
+788,Pneumonia,	Septra,5,Low,Adult,200mg
+789,Pneumonia,Ancef,6,Low,Adult,210mg
+790,Pneumonia,Augmentin ES-600,7,Medium,Adult,220mg
+791,Pneumonia,Cefdinir,8,Medium,Adult,230mg
+792,Pneumonia,	gentamicin,9,Medium,Adult,240mg
+793,Pneumonia,Penicillin VK,7,High,Adult,250mg
+794,Pneumonia,Claforan,8,High,Adult,260mg
+795,Pneumonia,Vancocin HCl Pulvules,9,High,Adult,270mg
